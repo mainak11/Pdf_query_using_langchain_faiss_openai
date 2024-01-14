@@ -6,7 +6,7 @@ from langchain.chains.question_answering import load_qa_chain
 from langchain.chains import load_chain
 from langchain.llms import OpenAI
 import streamlit as st
-import pyautogui
+# import pyautogui
 import os, shutil
 
 def delete_directory(directory_path):
@@ -89,9 +89,9 @@ if os.path.exists("faiss_index"):
                 chain = load_qa_chain(OpenAI(), chain_type="stuff")
                 if prompt is None:
                     re='Ask me anything about the pdf'
-                elif prompt=='exit':
-                    delete_directory('faiss_index')
-                    pyautogui.hotkey('f5') #Simulates F5 key press = page refresh
+                # elif prompt=='exit':
+                #     delete_directory('faiss_index')
+                #     pyautogui.hotkey('f5') #Simulates F5 key press = page refresh
                 else:
                     with st.spinner('Typping...'):
                         re=return_response(str(prompt),document_search,chain)
