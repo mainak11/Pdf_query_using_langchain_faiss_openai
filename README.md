@@ -7,7 +7,7 @@ https://huggingface.co/spaces/mainakhf/Pdf_query
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/melih-unsal/DemoGPT.git](https://github.com/mainak11/Pdf_query_using_langchain_faiss_openai.git
+    git clone https://github.com/mainak11/Pdf_query_using_langchain_faiss_openai.git
     ```
 2. Navigate into the project directory:
     ```sh
