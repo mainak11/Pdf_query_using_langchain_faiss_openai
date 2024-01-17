@@ -2,7 +2,7 @@
 ## Test App
 https://huggingface.co/spaces/mainakhf/Pdf_query
 
-### For the Source Code Version
+### Run on local machine
 
 
 1. Clone the repository:
