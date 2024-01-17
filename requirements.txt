@@ -6,3 +6,6 @@ tiktoken
 pinecone-client
 streamlit
 pyautogui
+streamlit_autorefresh
+google-generativeai
+langchain_google_genai
