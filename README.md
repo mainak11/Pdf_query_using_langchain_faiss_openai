@@ -1,4 +1,4 @@
-# Pdf_query_using_langchain_faiss_openai
+# Pdf_query_using_langchain_faiss_openai_Google-Gemini
 ## Test App
 https://huggingface.co/spaces/mainakhf/Pdf_query
 
