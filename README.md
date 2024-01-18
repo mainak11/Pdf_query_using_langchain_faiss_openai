@@ -2,6 +2,12 @@
 ## Test App
 https://huggingface.co/spaces/mainakhf/Pdf_query
 
+
+
+https://github.com/mainak11/Pdf_query_using_langchain_faiss_openai/assets/97405158/d43410ee-cfb1-4ac5-a020-c955d6e63644
+
+
+
 ### Run on local machine
 
 
